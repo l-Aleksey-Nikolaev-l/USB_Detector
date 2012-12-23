@@ -1,0 +1,8 @@
+git log
+git rebase -i --root
+git commit --amend --no-edit --date "Fri 11 Aug 2023 15:44:41 +0200"
+git rebase --continue
+
+
+
+
